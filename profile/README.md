@@ -22,7 +22,7 @@
 | [kiln-demo](https://github.com/kilncms/kiln-demo) | An example site, a made-up pickle company, that new sites can start from. |
 | [kiln-demo-mr](https://github.com/kilncms/kiln-demo-mr) | The site behind the live demo at demo.kilncms.com. |
 
-Questions and problems: [open an issue](https://github.com/kilncms/kiln/issues) or write to info@kilncms.com.
+Questions and problems: [open an issue](https://github.com/kilncms/kiln/issues) or write to hello@kilncms.com.
 Security reports: please use [private reporting](https://github.com/kilncms/kiln/security/advisories/new).
 
 Kiln is built and run by Wilder Idea LLC.
